@@ -14,7 +14,7 @@ DebMaster is a powerful, user-friendly desktop application designed to simplify 
 
 Hi [@whoeevee](https://github.com/whoeevee),
 
-I developed DebMaster with the goal of making tools like **EeveeSpotifyReborn** more accessible to a wider audience. Many users who are not deeply familiar with the command line or the intricacies of `.ipa` patching find it challenging to get started.
+I developed DebMaster with the goal of making tools like **EeveeSpotifyReborn** (cause I use it on the daily like fr) more accessible to a wider audience thats the soul reason I made this tool is to be able to still be able to sude load your spotify also i can host the patched ipas on my website if u want so u dont get dmca'd Ill take the hit for easy acsess for others. Many users who are not deeply familiar with the command line or the intricacies of `.ipa` patching find it challenging to get started witch is why I made this.
 
 DebMaster provides a simple, GUI-based solution that allows anyone to download your latest releases and patch them into the Spotify IPA in just a few clicks. I believe that featuring this tool on your repository would be incredibly beneficial for your users, especially those who are less tech-savvy.
 
