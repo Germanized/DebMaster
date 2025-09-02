@@ -1,0 +1,40 @@
+{
+  "name": "debmaster",
+  "version": "1.0.0",
+  "description": "Professional iOS Package Conversion",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "ios",
+    "package-conversion"
+  ],
+  "author": "YourName",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^37.4.0",
+    "electron-builder": "*"
+  },
+  "build": {
+    "appId": "com.example.debmaster",
+    "productName": "DebMaster",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "renderer/**/*",
+      "package.json",
+      "backend/**/*"
+    ],
+    "win": {
+      "icon": "renderer/assets/DebMaster.png",
+      "target": "portable"
+    }
+  }
+}
