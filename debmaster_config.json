@@ -1,0 +1,15 @@
+{
+  "download_dir": "./downloads",
+  "output_dir": "./converted",
+  "temp_dir": "./temp",
+  "logs_dir": "./logs",
+  "github_token": null,
+  "max_concurrent_downloads": 3,
+  "cache_releases": true,
+  "cache_duration": 3600,
+  "download_timeout": 300,
+  "max_download_retries": 3,
+  "chunk_size": 8192,
+  "enable_resume": true,
+  "verify_downloads": true
+}
